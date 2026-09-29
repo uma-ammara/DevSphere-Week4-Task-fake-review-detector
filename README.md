@@ -1,4 +1,4 @@
-# 🕵️ Fake Product Review Detection Using a Neural Network
+#  Fake Product Review Detection Using a Neural Network
 
 A beginner-friendly machine learning project that detects whether a product/hotel review is **Likely Genuine** or **Potentially Fake**, using **TF-IDF** text features and a simple **feed-forward neural network** built with **TensorFlow/Keras**. Includes an interactive **Streamlit** web app for live predictions.
 
